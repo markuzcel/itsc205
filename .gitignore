@@ -1,0 +1,14 @@
+#Prerequisites
+*.d
+
+#Compiled Object files
+*.slo
+*.l
+*.o
+*.obj
+
+#Executables
+*.exe
+*.out
+*.app
+
